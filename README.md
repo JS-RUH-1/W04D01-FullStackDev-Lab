@@ -1,5 +1,7 @@
 # LAB 
 
+## Discuss and answer the following questions with your partner:
+
 - What is full stack development ?
 - What is MERN stack ?
 - Explain the role of each of these (web server and application server) ?
