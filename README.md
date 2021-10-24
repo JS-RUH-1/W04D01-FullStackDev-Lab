@@ -1,6 +1,6 @@
 # LAB 
 
-## Discuss and answer the following questions with your partner:
+## Discuss and answer the following questions with the person next to you:
 
 - What is full stack development ?
 - What is MERN stack ?
